@@ -1,3 +1,3 @@
 cd /usr/share/
-cd hawksploit 
+cd lukasploit
 python3 hackingtools.py
